@@ -1,0 +1,41 @@
+{
+	"geode": "5.6.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "isotonicbunk.req-indicator",
+	"name": "REQ Indicator",
+	"version": "v1.0.0",
+	"developers": ["isotonicbunk", "hexique"],
+	"description": "",
+	"tags": ["universal", "offline", "interface", "joke"],
+	"links": {
+		"source": "https://github.com/IsotonicBunk/REQIndicator"
+	},
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"resources": {
+		"files": [
+    		"resources/*.png",
+			"resources/reqon/*.png"
+    	]
+	},
+	"settings": {
+		"enabled": {
+    		"type": "bool",
+    		"name": "Enabled",
+    		"description": "Enable REQ indicator",
+    		"default": true
+		},
+		"onreq": {
+    		"type": "bool",
+    		"name": "\"Enable\" requests",
+    		"description": "Change REQ=OFF animation to REQ=ON",
+    		"default": false
+		}
+	}
+}
