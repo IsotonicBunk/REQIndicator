@@ -1,13 +1,6 @@
-#include "Geode/cocos/cocoa/CCGeometry.h"
-#include "Geode/cocos/support/CCPointExtension.h"
-#include "Geode/loader/Log.hpp"
-#include "Geode/loader/ModEvent.hpp"
-#include "Geode/loader/SettingV3.hpp"
-#include "Geode/ui/OverlayManager.hpp"
 #include <Geode/Geode.hpp>
 #include <Geode/modify/CCscene.hpp>
 #include <prevter.imageplus/include/api.hpp>
-#include <string>
 
 using namespace geode::prelude;
 using namespace cocos2d;
