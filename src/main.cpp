@@ -1,5 +1,4 @@
 #include <Geode/Geode.hpp>
-#include <Geode/modify/CCscene.hpp>
 #include <prevter.imageplus/include/api.hpp>
 
 using namespace geode::prelude;
