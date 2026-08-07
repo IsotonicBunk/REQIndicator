@@ -1,7 +1,9 @@
 # **REQIndicator**
 Mod that adds REQ indicator to Geometry Dash
 
+**THIS MOD WAS MADE BY JOKE**
 
+just. dont think that this is a serious mod
 
 # **Epilepsy warning!**
 
@@ -17,22 +19,4 @@ But with this mod every watcher will know that u are not going to do that.
 # Credits
 Idea by [HeXi](https://github.com/hexique)
 
-![reqoff animation](isotonicbunk.req-indicator/reqoff_0001.png?width=40) render by [HeXi](https://github.com/hexique)
-
-![reqon animation](isotonicbunk.req-indicator/0001.png?width=40) render by me
-
-code by me
-
-# Prewiew
-
-sry its not animated here
-
-
-
-REQ=OFF animation
-
-![reqoff animation](isotonicbunk.req-indicator/reqoff_0001.png?width=200)
-
-REQ=ON animation
-
-![reqon animation](isotonicbunk.req-indicator/0001.png?width=200)
+Sprites by Me & [HeXi](https://github.com/hexique)

@@ -3,6 +3,10 @@ Mod that adds REQ indicator to Geometry Dash
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
+**THIS MOD WAS MADE BY JOKE**
+
+just. dont think that this is a serious mod
+
 # **Epilepsy warning!**
 
 **This mod contains flashing lights!**
@@ -17,17 +21,4 @@ But with this mod every watcher will know that u are not going to do that.
 # Credits
 Idea by [HeXi](https://github.com/hexique)
 
-<img src="reqoff.gif" width="40" alt="reqoff animation"> render by [HeXi](https://github.com/hexique)
-
-<img src="reqon.gif" width="40" alt="reqon animation"> render by me
-
-code by me
-
-# Prewiew
-REQ=OFF animation
-
-<img src="reqoff.gif" width="200" alt="reqoff animation">
-
-REQ=ON animation (a little bit slow here)
-
-<img src="reqon.gif" width="200" alt="reqon animation">
+Sprites by Me & [HeXi](https://github.com/hexique)
