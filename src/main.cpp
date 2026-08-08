@@ -48,6 +48,7 @@ void updateREQIndicator() {
     spr->setID("REQIndicator"_spr);
     spr->setScale(scale);
     spr->setZOrder(9998);
+    spr->setAnchorPoint(0, 1);
     auto safe = geode::utils::getSafeAreaRect();
     spr->setPosition(ccp(safe.origin.x + (offsetX * scale), safe.origin.y + safe.size.height - (offsetY * scale)));
 
