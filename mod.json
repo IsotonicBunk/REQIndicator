@@ -93,7 +93,7 @@
 			"type": "float",
 			"name": "X Offset",
 			"description": "Change indicator X Pos offset",
-			"default": 75,
+			"default": 0,
     		"min": -100,
     		"max": 700,
     		"control": {
@@ -108,7 +108,7 @@
 			"type": "float",
 			"name": "Y Offset",
 			"description": "Change indicator Y Pos offset",
-			"default": 26,
+			"default": 0,
     		"min": -400,
     		"max": 100,
     		"control": {
