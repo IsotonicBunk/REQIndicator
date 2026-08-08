@@ -50,7 +50,7 @@ void updateREQIndicator() {
     spr->setZOrder(9998);
     spr->setAnchorPoint(ccp(0, 1));
     auto scrSize = CCDirector::sharedDirector()->getWinSize();;
-    spr->setPosition(ccp(offsetX * scale, scrSize.y - (offsetY * scale)));
+    spr->setPosition(ccp(offsetX * scale, scrSize.height - (offsetY * scale)));
 
     overlay->addChild(spr);
 }
