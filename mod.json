@@ -8,7 +8,7 @@
 	},
 	"id": "isotonicbunk.req-indic",
 	"name": "REQ Indicator",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developers": ["isotonicbunk"],
 	"description": "",
 	"tags": ["universal", "offline", "interface", "joke"],
