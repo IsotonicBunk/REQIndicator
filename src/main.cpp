@@ -49,8 +49,8 @@ void updateREQIndicator() {
     spr->setScale(scale);
     spr->setZOrder(9998);
     spr->setAnchorPoint(ccp(0, 1));
-    auto safe = geode::utils::getSafeAreaRect();
-    spr->setPosition(ccp(safe.origin.x + (offsetX * scale), safe.origin.y + safe.size.height - (offsetY * scale)));
+    auto scrSize = CCDirector::sharedDirector()->getWinSize();;
+    spr->setPosition(ccp(offsetX * scale, scrSize.y - (offsetY * scale)));
 
     overlay->addChild(spr);
 }
